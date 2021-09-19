@@ -3,4 +3,4 @@ test ilk komut
 üçüncü satır
 dorduncu satır
 murat geldi
-murat uçtu
+murat uçtu.
