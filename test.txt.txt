@@ -3,4 +3,8 @@ test ilk komut
 üçüncü satır
 dorduncu satır
 murat geldi
+<<<<<<< HEAD
 murat uçtu.
+=======
+murat uçtu.
+>>>>>>> refs/remotes/origin/main
